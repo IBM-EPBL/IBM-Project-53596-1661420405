@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204564206713",
+    "project_id": "isifms",
+    "storage_bucket": "isifms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204564206713:android:2431ebf424b332d05a70a8",
+        "android_client_info": {
+          "package_name": "com.ibmproject.isifms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204564206713-l9nga4pljj2sm6dnepesnri3cot5ulgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMLn-nVn5dRgwLcOWzs3YgOSNC27oghbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204564206713-l9nga4pljj2sm6dnepesnri3cot5ulgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
